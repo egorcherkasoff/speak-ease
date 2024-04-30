@@ -1,5 +1,7 @@
-vscode
-idea
+.env
+
+.vscode
+.idea
 
 # Logs
 logs
@@ -17,3 +19,4 @@ dist-ssr
 
 #visio diagrams
 *.vsdx
+
