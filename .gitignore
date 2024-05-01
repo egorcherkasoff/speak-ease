@@ -20,3 +20,6 @@ dist-ssr
 #visio diagrams
 *.vsdx
 
+#db diagram
+*.pdd
+
